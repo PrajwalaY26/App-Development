@@ -1,4 +1,4 @@
-# 🌟 Bottom Navigation Bar 🌟
+# Bottom Navigation Bar
 
 Welcome to the folder of our Bottom Navigation Bar! 📁
 
