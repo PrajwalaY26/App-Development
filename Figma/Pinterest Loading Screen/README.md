@@ -24,4 +24,4 @@ This design was created by following a tutorial on YouTube. I do not own any cop
 
 I welcome contributions! If you have suggestions for improvements or find any issues, please open an issue in this repository.
 
-Thank you for your interest in our Pinterest Loading Screen. We hope you find it inspiring and useful for your projects!
+Thank you for your interest in my Pinterest Loading Screen. I hope you find it inspiring and useful for your projects!
