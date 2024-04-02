@@ -8,7 +8,7 @@ This repository contains the design and implementation files for my Task Tracker
 
 ## Design Details
 
-The UI design for this app has been created using Figma. The design will be updated periodically to improve its realism and ease of use. Each design update will be named as versions (like version 1, 1.1, and so on).
+The design for this app has been created using Figma. The design will be updated periodically to improve its realism and ease of use. Each design update will be named as versions (like version 1, 1.1, and so on).
 
 ## Usage
 
